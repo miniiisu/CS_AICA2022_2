@@ -1,0 +1,21 @@
+[{"stream_name":"stdout","time":17.664210351,"data":"['98__flip.jpg', '56__flip.jpg', '140__flip.jpg', '208.jpg', 'IMG_5892.jpg']\n"}
+,{"stream_name":"stdout","time":17.664276523,"data":"['98__flip.txt', '56__flip.txt', '140__flip.txt', '208.txt', 'IMG_5892.txt']\n"}
+,{"stream_name":"stdout","time":17.722784126,"data":"795\n"}
+,{"stream_name":"stdout","time":17.722856567,"data":"795\n"}
+,{"stream_name":"stdout","time":17.781361786,"data":"67\n"}
+,{"stream_name":"stdout","time":20.254763362,"data":"['person_bike']\n"}
+,{"stream_name":"stdout","time":22.936571137,"data":"['Helmet']\n"}
+,{"stream_name":"stdout","time":25.06977289,"data":"[[102 220 225]]\n"}
+,{"stream_name":"stdout","time":25.069868085,"data":"[[179  61 234]]\n"}
+,{"stream_name":"stderr","time":29.349015582,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":29.349115633,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":29.349146465,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":29.565201144,"data":"[NbConvertApp] Writing 1020329 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":30.88525751,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":30.885311018,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":30.885324693,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":31.565160336,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":31.565213003,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.565922883,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":31.566832377,"data":"[NbConvertApp] Writing 312370 bytes to __results__.html\n"}
+]
